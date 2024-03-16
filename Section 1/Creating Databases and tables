@@ -1,4 +1,0 @@
-**Create databases:**
-```sql
-CREATE DATABASES database_name;
-```
